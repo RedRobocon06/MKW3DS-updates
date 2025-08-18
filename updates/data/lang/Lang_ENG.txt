@@ -2,6 +2,7 @@
 ##No need to translate lines starting with #, those are comments
 # Symbols:
 #	SNES -> \uE031\uE032
+#	N64 -> \uE022\uE023
 #	GBA -> \uE024\uE025
 #	GCN -> \uE026\uE027
 #	DS -> \uE033
@@ -69,7 +70,7 @@ $141 :: \uE022\uE023 Bowser's Castle
 
 #Battle Stages
 $146 :: Block Plaza
-$147 :: Delfino Pier
+$147 :: Chain Chomp Wheel
 $148 :: Galaxy Colosseum
 $143 :: \uE022\uE023 Skyscraper
 $144 :: \uE026\uE027 Cookie Land

@@ -2,6 +2,7 @@
 ##No need to translate lines starting with #, those are comments
 # Symbols:
 #	SNES -> \uE031\uE032
+#	N64 -> \uE022\uE023
 #	GBA -> \uE024\uE025
 #	GCN -> \uE026\uE027
 #	DS -> \uE033
@@ -20,48 +21,81 @@
 ##Course Names
 
 #Mushroom Cup
-$113 :: \uE022\uE023 Autodrome Mario
-$110 :: \uE033 Cascades Yoshi
-
-#moonview highway is way too much beta, needs a lot of improvements.
+$113 :: Circuit Luigi
+$110 :: 
+$111 :: 
+$114 :: 
 
 #Flower Cup
-
-
-$112 :: \uE067 Circuit Luigi
+$115 :: 
+$109 :: 
+$118 :: 
+$112 :: Mine d'Or de Wario
 
 #Star Cup
-
-$116 :: \uE067 Mine d'Or de Wario
-
-
+$117 :: Circuit Daisy
+$116 :: 
+$119 :: 
+$120 :: 
 
 #Special Cup
-
-$122 :: \uE067 Circuit Daisy
-
-
+$121 :: 
+$122 :: 
+$123 :: 
+$124 :: Route Arc-en-ciel
 
 #Shell Cup
-
-$127 :: \uE024\uE025 Château de Bowser 3
+$128 :: \uE026\uE027 Plage Peach
+$127 :: \uE033 Cascades Yoshi
+$137 :: 
+$130 :: \uE022\uE023 Autodrome Mario
 
 #Banana Cup
-$140 :: \uE026\uE027 Plage Peach
-
-
+$140 :: 
+$126 :: 
+$134 :: 
 $131 :: \uE026\uE027 Waluigi Stadium
 
 #Leaf Cup
-#nothing added yet 
+$129 :: 
+$132 :: \uE024\uE025 Château de Bowser 3
+$139 :: 
+$136 :: 
 
 #Lightning Cup
+$135 :: 
+$138 :: 
+$133 :: \uE026\uE027 Montagne DK
+$141 :: 
 
-$138 :: \uE026\uE027 Montagne DK
+#Battle Stages
+$146 :: Square Bloc
+$147 :: Roulette Chain Chomp
+$148 :: Colisée Galactique
+$143 :: \uE022\uE023 Gratte-ciel
+$144 :: \uE026\uE027 Cookie Arena
+$145 :: \uE033 Maison de l'Aube
 
-$141 :: \uE067 Route Arc-en-ciel
+#Characters
+$10 :: Toadette
+$55 :: Toadette
+$12 :: King Boo
+$57 :: King Boo
+$13 :: Waluigi
+$58 :: Waluigi
+$14 :: Birdo
+$59 :: Birdo
 
-#Create new save data text
-%359 :: Un fichier de sauvegarde pour\nMKW3DS sera créé sur la\ncarte SD.
+#Kart Body Parts
+
+#Modes
+
+#Local
+
+#Online
+
+#Save Data
+%359 :: Un fichier de sauvegarde\npour Mario Kart Wii 3DS\nsera créé sur la carte SD.
 %357 :: Création du fichier\nde sauvegarde...
 %358 :: Le fichier de sauvegarde\nest créé.
+%361 :: 
