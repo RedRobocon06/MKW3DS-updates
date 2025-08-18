@@ -1,4 +1,3 @@
-
 ##No need to translate lines starting with #, those are comments
 # Symbols:
 #	SNES -> \uE031\uE032
@@ -87,21 +86,21 @@ $14 :: Birdo
 $59 :: Birdo
 
 #Kart Body Parts
-$64 :: Mini Beast
-$65 :: Tiny Titan
-$66 :: Piranha Prowler
-$67 :: Daytripper
-$68 :: Flame Flyer
-$69 :: Sprinter
-$70 :: Blue Falcon
-$71 :: Classic Dragster
-$72 :: Booster Seat
-$74 :: Jetsetter
-$75 :: Super Blooper
-$76 :: Wild Wing
-$77 :: Offroader
-$78 :: Cheep Charger
-$79 :: Honeycoupe
+#$64 :: ??? (Mini Beast)
+#$65 :: ??? (Tiny Titan)
+#$66 :: ??? (Piranha Prowler)
+#$67 :: ??? (Daytripper)
+#$68 :: ??? (Flame Flyer)
+#$69 :: ??? (Sprinter)
+#$70 :: ??? (Blue Falcon)
+#$71 :: ??? (Classic Dragster)
+#$72 :: ??? (Booster Seat)
+#$74 :: ??? (Jetsetter)
+#$75 :: ??? (Super Blooper)
+#$76 :: ??? (Wild Wing)
+#$77 :: ??? (Offroader)
+#$78 :: ??? (Cheep Charger)
+#$79 :: ??? (Honeycoupe)
 
 #Modes
 %12 :: Single Player
