@@ -86,21 +86,53 @@ $14 :: Birdo
 $59 :: Birdo
 
 #Kart Body Parts
-#$64 :: Bolt Buggy (Mini Beast)
-#$65 :: Egg 1 (Tiny Titan)
-#$66 :: Tiny Tug (Piranha Prowler)
-#$67 :: ??? (Daytripper)
-#$68 :: Zucchini (Flame Flyer)
-#$69 :: B Dasher (Sprinter)
-#$70 :: ??? (Blue Falcon)
-#$71 :: Bumble V (Classic Dragster)
-#$72 :: ??? (Booster Seat)
-#$74 :: ??? (Jetsetter)
-#$75 :: Birthday Girl (Super Blooper)
-#$76 :: Cact-X (Wild Wing)
-#$77 :: Barrel Train (Offroader)
-#$78 :: Soda Jet (Cheep Charger)
-#$79 :: ??? (Honeycoupe)
+$64 :: Offroader
+$65 :: Cheep Charger
+$66 :: Tiny Titan
+$67 :: Daytripper
+$68 :: Wild Wing
+$69 :: Sprinter
+$70 :: Piranha Prowler
+$71 :: Super Blooper
+$72 :: Booster Seat
+$74 :: Flame Flyer
+$75 :: Classic Dragster
+$76 :: Mini Beast
+$77 :: Honeycoupe
+$78 :: Blue Falcon
+
+#Kart Tire Parts
+# :: 
+# :: Titan
+# :: Dragster
+# :: Ripple
+# :: Wave
+# :: 
+# :: Leaf
+# :: 
+
+#Unlocked
+# :: You won a trophy\nin the Mushroom Cup!\n\nYou can now play the\n\u000E\u0000\u0003\u0002\u0000Flower Cup\u000E\u0000\u0003\u0002\uFFFF!
+# :: You won a trophy\nin the Flower Cup!\n\nYou can now play the\n\u000E\u0000\u0003\u0002\u0000Star Cup\u000E\u0000\u0003\u0002\uFFFF!
+# :: You won a trophy\nin the Star Cup!\n\nYou can now play the\n\u000E\u0000\u0003\u0002\u0000Special Cup\u000E\u0000\u0003\u0002\uFFFF!
+# :: You won a trophy\nin the Shell Cup!\n\nYou can now play the\n\u000E\u0000\u0003\u0002\u0000Banana Cup\u000E\u0000\u0003\u0002\uFFFF!
+# :: You won a trophy\nin the Banana Cup!\n\nYou can now play the\n\u000E\u0000\u0003\u0002\u0000Leaf Cup\u000E\u0000\u0003\u0002\uFFFF!
+# :: You won a trophy\nin the Leaf Cup!\n\nYou can now play the\n\u000E\u0000\u0003\u0002\u0000Lightning Cup\u000E\u0000\u0003\u0002\uFFFF!
+# :: You conquered\nall cups on 150cc!\n\nYou can now play in\n\u000E\u0000\u0003\u0002\u0000Mirror Mode\u000E\u0000\u0003\u0002\uFFFF!
+# :: You won the\nMushroom Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000Daisy\u000E\u0000\u0003\u0002\uFFFF!
+# :: You won the\nFlower Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000Wario\u000E\u0000\u0003\u0002\uFFFF!
+# :: You won the\nStar Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000Rosalina\u000E\u0000\u0003\u0002\uFFFF!
+# :: You won the\nSpecial Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000Birdo\u000E\u0000\u0003\u0002\uFFFF!
+# :: You won the\nShell Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000Shy Guy\u000E\u0000\u0003\u0002\uFFFF!
+# :: You won the\nBanana Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000Waluigi\u000E\u0000\u0003\u0002\uFFFF!
+# :: You won the\nLeaf Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000King Boo\u000E\u0000\u0003\u0002\uFFFF!
+# :: You won the\nLightning Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000Toadette\u000E\u0000\u0003\u0002\uFFFF!
+# :: You won every\nGrand Prix on any class!\n\nYou can now race as your\n\u000E\u0000\u0003\u0002\u0000Mii\u000E\u0000\u0003\u0002\uFFFF!
+# :: You have collected \u000E\u0001\u0004\u0004\u0000\u0000 coins!\n\nYou've unlocked a new\n\u000E\u0000\u0003\u0002\u0000vehicle customization option\u000E\u0000\u0003\u0002\uFFFF!
+# :: You have earned 10,000 VR!\n\nYou've unlocked the\n\u000E\u0000\u0003\u0002\u0000Gold Standard\u000E\u0000\u0003\u0002\uFFFF!
+# :: You have scored\nat least one star in\nevery Grand Prix!\n\nYou've unlocked the\n\u000E\u0000\u0003\u0002\u0000Gold Tires\u000E\u0000\u0003\u0002\uFFFF!
+# :: You have met 100 players\nvia StreetPass!\n\nYou've unlocked the\n\u000E\u0000\u0003\u0002\u0000Gold Glider\u000E\u0000\u0003\u0002\uFFFF!
+# :: You beat a Mii met via\nStreetPass!\n\nYou've unlocked a new\n\u000E\u0000\u0003\u0002\u0000vehicle customization option\u000E\u0000\u0003\u0002\uFFFF!
 
 #Modes
 %12 :: Single Player
