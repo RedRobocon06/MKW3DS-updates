@@ -102,37 +102,43 @@ $59 :: Birdo
 #$78 :: 
 
 #Kart Tire Parts
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
+#$82 :: 
+#$83 :: 
+#$85 :: 
+#$84 :: 
+#$86 :: 
+#$88 :: 
+#$89 :: 
+#$87 :: 
 
 #Unlocked
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
-# :: 
+#%148 :: 
+#%149 :: 
+#%150 :: 
+#%152 :: 
+#%153 :: 
+#%154 :: 
+#%155 :: 
+#%157 :: 
+#%158 :: 
+#%159 :: 
+#%160 :: 
+#%161 :: 
+#%162 :: 
+#%163 :: 
+#%164 :: 
+#%165 :: 
+#%166 :: 
+#%167 :: 
+#%168 :: 
+#%169 :: 
+#%170 :: 
+
+#Staff Credits
+%399 :: \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+%400 :: \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHideki Konno\n\n\n\nYasuyuki Oyagi\n\n\n\nMinoru Narita\nTaku Matoba\nKentaro Tominaga\nYugo Hayashi\nKosuke Yabuki\nYuji Ichijo\nHokWai Ng\nShintaro Jikumaru\nKoji Kitagawa\n\n\n\nKatsuhisa Sato\n\n\n\nYusuke Shiraiwa\nYukihiko Ito\nKeiichiro Kato\nIchiro Suzuki\nShigetoshi Kitayama\nJun Ito\nTakeshi Miyamoto\nYoshinori Konishi\nTakahiro Takayama\nKensuke Muraki\nIchiro Suzuki\nShoichi Obayashi\nMifune Hayata\nHideaki Nishihara\nYoshihiko Sakuraba\nMasahiro Nakamura\nToyoki Kataoka\nTatsuya Takadera\nAtsushi Asakura\nKeiko Kinoshita\n\n\n\nHirotake Ohtsubo\nYoshihisa Morimoto\n\n\n\nKoji Kitagawa\nTaeko Sugawara\nAkito Osanai\nYasutomo Nishibe\nEisuke Sasaki\nMiki Watanabe\nMasahiro Kawanishi\nShunichi Shirai\nAtsushi Miyagi\nMari Fujita\n\n\n\nDaisuke Kageyama\n\n\n\nKeisuke Nishimori\nTomomi Iwasaki\nYoko Tanaka\nKazunori Fujii\nHiroyuki Inoue\nTakahiro Koizumi\nShuhan Goya\nShinsuke Yamasaki\n\n\n\nTokihiko Toyoda\n\n\n\nYoko Fukuda\n\n\n\nKotaro Hiromatsu\nShingo Okamoto\nYasuhiro Kawaguchi\nYoshito Yasuda\nHironobu Kakui\n\n\n\nKenji Yamamoto\nKatsuhisa Sato\nJun Ito\nTakuhiro Dohta\nTakahiro Takayama\nTomohisa Saito\nMasato Kimura\nTetsuya Nakata\nShinji Watanabe\nDaisuke Hiratsu\nMasashi Mifune\nRyuhei Matsuura\nNao Ueda\nYosuke Oshino\n\n\n\nTakashi Endo\nYasushi Ida\nYasuki Tawaraishi\nTakuya Maekawa\nShunsaku Kitamura\nMakoto Takano\nToshikazu Kitani\nAtsushi Masaki\nJumpei Otani\nYasuhiro Yoshioka\nKazuhiro Nishizawa\nMotoi Tanaka\nYasutoshi Maegawa\nHisahiko Takeuchi\nTomohiro Nakatani\nHiroshi Mitsui\nTakashi Yoneyama\nDaisuke Yamatoki\nAtsushi Kobata\n\n\n\nHaruhiko Imatake\nTaisuke Kawahara\nRyo Yamaguchi\nTakumi Masuda\nKenichi Takemoto\nYusuke Inoue\nKeigo Nakano\nKazutomo Niwa\nHideto Yuzawa\nMasayuki Kimura\nRyota Nadatomo\nMasaki Hara\nNorihiro Kozawa\nSatoshi Matsuyama\nTakeshi Kawasaki\nKyohei Nakano\nIppei Ogiwara\nMotoki Yano\nYu Nishikawa\n\n\n\nYoshiki Haruhana\nTakahiro Hamaguchi\nKeijiro Inoue\nAkiko Hirono\nMichiko Iwasawa\nTakuro Shimizu\nTakeshi Koike\n\n\n\nAsuka Ohta\nRyo Nagamatsu\n\n\n\nAtsushi Masaki\nMasato Mizuta\n\n\n\nHajime Wakai\n\n\n\nHiroyasu Kuwabara\n\n\n\nShigeki Yoshida\nDaisuke Nobori\nEriko Kimura\nChiaki Aida\nNaoki Mori\n\n\n\nCharles Martinet\nSam Kelly\nDeanna Mustard\nKenny James\nMercedez Rose\nTakashi Nagasako\nKazumi Totaka\nNate Bihidorff\nScott Burns\nDelores Rogers\nAyumi Nagao\nFumihiro Okabayashi\nHitomi Hirose\nKatsuhiro Harasawa\nTakuya Sato\nTomo Adachi\nTomoyuki Higuchi\nYuko Kaida\n\n\n\nKeizo Kato\n\n\n\nHironobu Kakui\nShintaro Jikumaru\n\n\n\nTetsuya Nakata\nKeizo Ohta\nTakuhiro Dohta\nProgramming Support Group\n\n\n\nYuuki Tanikawa\nAkihiro Sakatani\nSuper Mario Club\n\n\n\nGema Almoguera\nAnn Lin\nReiko Ninomiya\nKevin Sullivan\n\n\n\nNate Bihldorff\nJeff Miller\nLeslie Swan\n\n\n\nMasayasu Nakata\nRobert Crombie\nKyle Hudson\nEric Bush\nSean Egan\nTim Casey\nPatrick Taylor\nRoger Harrison\nMelvin Forrest\nIsrael Cruz-Morales\nJason Mahaffa\nDavid Hunziker\nTomoko Mikami\n\n\n\nAndy Fey\nTakashi Katagiri\n\n\n\nAndrea Jähn\nThomas Berthollet\nAmparo Almodóvar Prieto\nAlessandro De Luca\nPatrick Shields\n\n\n\nAndrea De Benedetto\nPatrick Thorenz\nGuillaume Deschamps\nArrate Ugarte Sandonís\nPietro Faccio\n\n\n\nPetra Gyarmaty\nAndrejs Doronins\nCristiano Fernandes\nIbon Díez Maeztu\nJames Greenwood\nJoachim Lust\nJohan Malherbe\nJohn Boudewijn\nManuel Tants\nManuela Patano\nMargarita Jabner\nMario Maldonado R.\nMathieu Springinsfeld\nMatteo Marras\nRicardo V. Gonçalves\nSean Keoghan\nSwen Harder\n\n\n\nSebastian Schürg\nMark Kourtoglou\nZuber Anzaghe\n\n\n\nYo Ohnishi\nTsuyoshi Watanabe\n\n\n\nTakayoshi Matsui\nKeisuke Kadota\n\n\n\nYuri Adachi\nShigehisa Nakaue\nNaoko Ayabe\n\n\n\nWataru Yamaguchi\nYusuke Nakano\n\n\n\nShigeo Touma\nEitaro Yamamoto\nNaoki Nakamura\nTaro Bando\nTakumi Kawagoe\nHarayasu Ito\nDIGITALSCAPE Co., Ltd.\nAll EAD\n\n\n\n\n\n\n\n\n\n\nShigeru Miyamoto\n\n\n\n\n\n\n\n\n\n\nSatoru Iwata\n\n\n\n\n\n\n\n\n\nAll Rights, including the\ncopyrights of Game, Scenario,\nMusic and Program, reserved\nby Nintendo.\n\n\n\n\n\n\n\n\n
+%401 :: \n\n\nMARIO KART WII 3DS\n\n\n\n\n\n\n\n\n\nSTAFF CREDITS\n\n\n\n\n\n\n\n\n\nPRODUCER\n\n\n\nDIRECTOR\n\n\n\nPLANNING\n\n\n\n\n\n\n\n\n\n\n\nPROGRAMMING DIRECTOR\n\n\n\nPROGRAMMING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOURSE DIRECTORS\n\n\n\n\nCOURSE DESIGN\n\n\n\n\n\n\n\n\n\n\n\n\nCHARACTER DIRECTOR\n\n\n\nCHARACTER DESIGN\n\n\n\n\n\n\n\n\n\n\nUI DESIGN\n\n\n\nEFFECTS DESIGN\n\n\n\nTECHNICAL SUPPORT\n\n\n\n\n\n\n\nPROGRAMMING SUPPORT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLIBRARY SUPPORT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNETWORK SUPPORT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDESIGN SUPPORT\n\n\n\n\n\n\n\n\n\nMUSIC\n\n\n\n\nSOUND EFFECTS\n\n\n\n\nSOUND SUPPORT\n\n\n\nDEMO MOVIE DIRECTOR\n\n\n\nDEMO MOVIE\n\n\n\n\n\n\n\nVOICE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPROGRESS MANAGEMENT\n\n\n\nTECHNICAL SUPPORT\n\n\n\n\nPROGRAMMING SUPPORT\n\n\n\n\n\n\nDEBUG\n\n\n\n\n\nNOA LOCALIZATION\n\n\n\n\n\n\nNOA LOCALIZATION MANAGEMENT\n\n\n\n\n\nNOA PRODUCT TESTING\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNOE LOCALISATION MANAGEMENT\n\n\n\n\nNOE TRANSLATION\n\n\n\n\n\n\n\nNOE TESTING TEAM\n\n\n\n\n\n\n\nNOE QUALITY ASSURANCE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNOE ELECTRONIC MANUAL\n\n\n\n\n\nGRAPHIC SUPERVISORS\n\n\n\n\nARTWORK\n\n\n\n\nCG ILLUSTRATION\n\n\n\n\n\nCG ILLUSTRATION SUPERVISORS\n\n\n\n\nSPECIAL THANKS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGENERAL PRODUCER\n\n\n\n\n\n\n\n\n\n\nEXECUTIVE PRODUCER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+%402 :: \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
 
 #Modes
 %12 :: Un joueur
