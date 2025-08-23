@@ -102,14 +102,11 @@ $77 :: Honeycoupe
 $78 :: Blue Falcon
 
 #Kart Tire Parts
-#$82 :: ???
-$83 :: Titan
 $85 :: Dragster
 $84 :: Ripple
 $86 :: Wave
-#$88 :: ???
+$88 :: Speeder
 $89 :: Leaf
-#$87 :: ???
 
 #Unlocked
 %148 :: You won a trophy\nin the Mushroom Cup!\n\nYou can now play the\n\u000E\u0000\u0003\u0002\u0000Flower Cup\u000E\u0000\u0003\u0002\uFFFF!
