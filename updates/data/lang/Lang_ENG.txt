@@ -99,7 +99,7 @@ $74 :: Flame Flyer
 $75 :: Classic Dragster
 $76 :: Mini Beast
 $77 :: Honeycoupe
-$78 :: Blue Falcon
+$78 :: Jetsetter
 
 #Kart Tire Parts
 $85 :: Dragster
