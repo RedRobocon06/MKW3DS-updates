@@ -20,93 +20,93 @@
 ##Course Names
 
 #Mushroom Cup
-$113 :: Luigis Piste
-$110 :: Kuhmuh-Weide
-$111 :: Pilz-Schlucht
-$114 :: Toads Fabrik
+$113 :: Circuito di Luigi
+$110 :: Prateria verde
+$111 :: Gola Fungo
+$114 :: Fabbrica di Toad
 
 #Flower Cup
-$115 :: Marios Piste
-$109 :: Kokos-Promenade
-$118 :: DK Skikane
-$112 :: Warios Goldmine
+$115 :: Circuito di Mario
+$109 :: Outlet Cocco
+$118 :: Pista snowboard DK
+$112 :: Miniera d'oro di Wario
 
 #Star Cup
-$117 :: Daisys Piste
-$116 :: Koopa-Kap
-$119 :: Blätterwald
-$120 :: Vulkangrollen
+$117 :: Circuito di Daisy
+$116 :: Punta Koopa
+$119 :: Pista degli aceri
+$120 :: Vulcano brontolone
 
 #Special Cup
-$121 :: Staubtrockene Ruine
-$122 :: Mondblickstraße
-$123 :: Bowsers Festung
-$124 :: Regenbogen-Boulevard
+$121 :: Rovine desertiche
+$122 :: Autostrada lunare
+$123 :: Castello di Bowser
+$124 :: Pista Arcobaleno
 
 #Shell Cup
-$128 :: \uE026\uE027 Peach Beach
-$127 :: \uE033 Yoshi-Kaskaden
-$137 :: \uE031\uE032 Geistertal 2
-$130 :: \uE022\uE023 Marios Rennpiste
+$128 :: \uE026\uE027 Spiaggia di Peach
+$127 :: \uE033 Cascate di Yoshi
+$137 :: \uE031\uE032 Valle fantasma 2
+$130 :: \uE022\uE023 Pista di Mario
 
 #Banana Cup
-$140 :: \uE022\uE023 Sorbet Land
-$126 :: \uE024\uE025 Shy Guy-Strand
-$134 :: \uE033 Piazzale Delfino
-$131 :: \uE026\uE027 Waluigi-Arena
+$140 :: \uE022\uE023 Circuito gelato
+$126 :: \uE024\uE025 Spiaggia Tipo Timido
+$134 :: \uE033 Borgo Delfino
+$131 :: \uE026\uE027 Stadio di Waluigi
 
 #Leaf Cup
-$129 :: \uE033 Glühheisse Wüste
-$132 :: \uE024\uE025 Bowsers Festung 3
-$139 :: \uE022\uE023 DKs Dschungelpark
-$136 :: \uE026\uE027 Marios Piste
+$129 :: \uE033 Deserto Picchiasol
+$132 :: \uE024\uE025 Castello di Bowser 3
+$139 :: \uE022\uE023 Viale Giungla DK
+$136 :: \uE026\uE027 Circuito di Mario
 
 #Lightning Cup
-$135 :: \uE031\uE032 Marios Piste 3
-$138 :: \uE033 Peachs Schlossgarten
-$138 :: \uE026\uE027 DK Bergland
-$141 :: \uE022\uE023 Bowsers Festung
+$135 :: \uE031\uE032 Circuito di Mario 3
+$138 :: \uE033 Giardino di Peach
+$133 :: \uE026\uE027 Montagne di DK
+$141 :: \uE022\uE023 Castello di Bowser
 
 #Battle Stages
-$146 :: Block-Plaza
-$147 :: Kettenhund-Roulette
-$148 :: Galaxis-Arena
-$143 :: \uE022\uE023 Wolkenkratzer
-$144 :: \uE026\uE027 Keks-Land
-$145 :: \uE033 Finstervilla
+$146 :: Piazza Blocchi
+$147 :: Roulette Categnaccio
+$148 :: Arena Galaxy
+$143 :: \uE022\uE023 Grattacielo
+$144 :: \uE026\uE027 Biscolandia
+$145 :: \uE033 Casa Crepuscolare
 
 #Characters
 $10 :: Toadette
 $55 :: Toadette
-$12 :: König Boo
-$57 :: König Boo
+$12 :: King Boo
+$57 :: King Boo
 $13 :: Waluigi
 $58 :: Waluigi
 $14 :: Birdo
 $59 :: Birdo
 
 #Kart Body Parts
-$64 :: Offroader
-$74 :: Feuerschleuder
-$68 :: Windschnitte
-$67 :: Cabriosa
-$72 :: Baby-Booster
-$76 :: Minibiest
-$66 :: Monztruck
-$77 :: Turbetto
-$65 :: Bob-Cheep
+$64 :: Dune buggy
+$74 :: Fiamma volante
+$68 :: Ali di squalo
+$67 :: Bolide retrò
+$72 :: Culla a reazione
+$76 :: Pistoni Bollenti
+$66 :: Minirally
+$77 :: Flash GT
+$65 :: Smack-mobile
 $69 :: Glory
-$78 :: Sterngleiter
-$70 :: Pistenpiranha
-$71 :: Blooper-Bolide
+$78 :: Protoracer
+$70 :: Piranha turbo
+$71 :: Super Calamako
 $75 :: Nostalgia 1
 
 #Kart Tire Parts
 $85 :: Dragster
-$84 :: Kräuselung
-$86 :: Welle
+$84 :: Ondulazione
+$86 :: Onda
 $88 :: Speeder
-$89 :: Blatt
+$89 :: Foglia
 
 #Unlocked
 #%148 :: 
@@ -138,17 +138,17 @@ $89 :: Blatt
 %402 :: \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
 
 #Modes
-%12 :: Einspieler
-%13 :: Mehrspieler
+%12 :: Giocatore singolo
+%13 :: Multigiocatore
 %14 :: Nintendo Network
-%15 :: Mario Kart-Kanal
+%15 :: Canale Mario Kart
 
 #Local
 %191 :: Players without\nMario Kart Wii 3DS can\njoin in via Download Play\non the \uE073HOME Menu.
 
 #Online
-%211 :: Verbindung zum\nNintendo Network\nwird hergestellt...
-%212 :: Möchtest du die Verbindung\nzum Nintendo Network\nunterbrechen?
+%211 :: Collegamento a\nNintendo Network\nin corso...
+%212 :: Vuoi interrompere\nil collegamento a\nNintendo Network?
 #%215 :: Searching for opponents...
 #%216 :: Your opponents\nhave been chosen!
 #%185 :: Please wait a moment.
@@ -163,7 +163,7 @@ $89 :: Blatt
 #&43 :: You will join the next battle. Please wait.
 
 #Save Data
-%359 :: Speicherdaten für\nMario Kart Wii 3DS warden\nnun auf der SD-Karte erstellt.
-%357 :: Speicherdaten werden erstellt...
-%358 :: Die Speicherdaten wurden\nerfolgreich erstellt.
-%361 :: Es wurden keine Speicherdaten\nfür Mario Kart Wii 3DS gefunden.\nBitte starte das Spiel, um\ndiese Daten herzustellen.\n\nDrücke den POWER-Knopf.
+%359 :: Dati di salvataggio\nper Mario Kart Wii 3DS\nsaranno creati nella scheda SD.
+%357 :: Creazione dei dati di salvataggio...
+%358 :: I Dati di salvataggio\nsono stati creati.
+%361 :: Il file di salvataggio di\nMario Kart Wii 3DS non esistono,\nper favore, avvia il gioco per\ncreare un nuovo salvataggio.\n\nPremi il tasto POWER.

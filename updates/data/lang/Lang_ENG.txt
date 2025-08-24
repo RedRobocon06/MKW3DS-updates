@@ -87,19 +87,19 @@ $59 :: Birdo
 
 #Kart Body Parts
 $64 :: Offroader
-$65 :: Cheep Charger
-$66 :: Tiny Titan
-$67 :: Daytripper
+$74 :: Flame Flyer
 $68 :: Wild Wing
+$67 :: Daytripper
+$72 :: Booster Seat
+$76 :: Mini Beast
+$66 :: Tiny Titan
+$77 :: Honeycoupe
+$65 :: Cheep Charger
 $69 :: Sprinter
+$78 :: Jetsetter
 $70 :: Piranha Prowler
 $71 :: Super Blooper
-$72 :: Booster Seat
-$74 :: Flame Flyer
 $75 :: Classic Dragster
-$76 :: Mini Beast
-$77 :: Honeycoupe
-$78 :: Jetsetter
 
 #Kart Tire Parts
 $85 :: Dragster
@@ -144,7 +144,7 @@ $89 :: Leaf
 %15 :: Mario Kart Channel
 
 #Local
-%191 :: Players who do not have\nMario Kart Wii 3DS can\njoin in via Download Play on\nthe \uE073HOME Menu.
+%191 :: Players without\nMario Kart Wii 3DS can\njoin in via Download Play\non the \uE073HOME Menu.
 
 #Online
 %211 :: Connecting to\nNintendo Network...

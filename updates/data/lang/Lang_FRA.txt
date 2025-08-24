@@ -86,27 +86,27 @@ $14 :: Birdo
 $59 :: Birdo
 
 #Kart Body Parts
-#$64 :: 
-#$65 :: 
-#$66 :: 
-#$67 :: 
-#$68 :: 
-#$69 :: 
-#$70 :: 
-#$71 :: 
-#$72 :: 
-#$74 :: 
-#$75 :: 
-#$76 :: 
-#$77 :: 
-#$78 :: 
+$64 :: VTT
+$74 :: Crache-flammes
+$68 :: Cabriolaile
+$67 :: Kart Calèche
+$72 :: Rehausseur
+$76 :: Mini-bête
+$66 :: Petit Titan
+$77 :: Coupé Miel
+$65 :: Cheepmobile
+$69 :: Intrépide
+$78 :: Bolide Stellaire
+$70 :: Kart Piranha
+$71 :: Super Bloups
+$75 :: Dragster Classique
 
 #Kart Tire Parts
-#$85 :: 
-#$84 :: 
-#$86 :: 
-#$88 :: 
-#$89 :: 
+$85 :: Dragster
+$84 :: Ondulation
+$86 :: Vague
+$88 :: Speeder
+$89 :: Feuille
 
 #Unlocked
 #%148 :: 
@@ -144,7 +144,7 @@ $59 :: Birdo
 %15 :: Chaîne Mario Kart
 
 #Local
-#%191 :: Players who do not have\nMario Kart Wii 3DS can\njoin in via Download Play on\nthe \uE073HOME Menu.
+%191 :: Players without\nMario Kart Wii 3DS can\njoin in via Download Play\non the \uE073HOME Menu.
 
 #Online
 %211 :: Connexion au\nNintendo Network...
