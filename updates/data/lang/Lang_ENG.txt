@@ -108,27 +108,32 @@ $86 :: Wave
 $88 :: Speeder
 $89 :: Leaf
 
+#Rules
+%82 :: Race Type
+%83 :: Teams
+%84 :: Solo
+
 #Unlocked
-%148 :: You won a trophy\nin the Mushroom Cup!\n\nYou can now play the\n\u000E\u0000\u0003\u0002\u0000Flower Cup\u000E\u0000\u0003\u0002\uFFFF!
-%149 :: You won a trophy\nin the Flower Cup!\n\nYou can now play the\n\u000E\u0000\u0003\u0002\u0000Star Cup\u000E\u0000\u0003\u0002\uFFFF!
-%150 :: You won a trophy\nin the Star Cup!\n\nYou can now play the\n\u000E\u0000\u0003\u0002\u0000Special Cup\u000E\u0000\u0003\u0002\uFFFF!
-%152 :: You won a trophy\nin the Shell Cup!\n\nYou can now play the\n\u000E\u0000\u0003\u0002\u0000Banana Cup\u000E\u0000\u0003\u0002\uFFFF!
-%153 :: You won a trophy\nin the Banana Cup!\n\nYou can now play the\n\u000E\u0000\u0003\u0002\u0000Leaf Cup\u000E\u0000\u0003\u0002\uFFFF!
-%154 :: You won a trophy\nin the Leaf Cup!\n\nYou can now play the\n\u000E\u0000\u0003\u0002\u0000Lightning Cup\u000E\u0000\u0003\u0002\uFFFF!
-%155 :: You conquered\nall cups on 150cc!\n\nYou can now play in\n\u000E\u0000\u0003\u0002\u0000Mirror Mode\u000E\u0000\u0003\u0002\uFFFF!
-%157 :: You won the\nMushroom Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000Daisy\u000E\u0000\u0003\u0002\uFFFF!
-%158 :: You won the\nFlower Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000Wario\u000E\u0000\u0003\u0002\uFFFF!
-%159 :: You won the\nStar Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000Rosalina\u000E\u0000\u0003\u0002\uFFFF!
-%160 :: You won the\nSpecial Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000Birdo\u000E\u0000\u0003\u0002\uFFFF!
-%161 :: You won the\nShell Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000Shy Guy\u000E\u0000\u0003\u0002\uFFFF!
-%162 :: You won the\nBanana Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000Waluigi\u000E\u0000\u0003\u0002\uFFFF!
-%163 :: You won the\nLeaf Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000King Boo\u000E\u0000\u0003\u0002\uFFFF!
-%164 :: You won the\nLightning Cup on 150cc!\n\nYou have unlocked\n\u000E\u0000\u0003\u0002\u0000Toadette\u000E\u0000\u0003\u0002\uFFFF!
-%165 :: You won every Grand Prix\non at least one class!\n\nYou can now race as your\n\u000E\u0000\u0003\u0002\u0000Mii\u000E\u0000\u0003\u0002\uFFFF!
-%167 :: You have earned 10,000 VR!\n\nYou've unlocked the\n\u000E\u0000\u0003\u0002\u0000Gold Standard\u000E\u0000\u0003\u0002\uFFFF!
-%168 :: You have scored at least ★\nin every Grand Prix!\n\nYou've unlocked the\n\u000E\u0000\u0003\u0002\u0000Gold Tires\u000E\u0000\u0003\u0002\uFFFF!
-%169 :: You have tagged 100\nplayers via StreetPass!\n\nYou've unlocked the\n\u000E\u0000\u0003\u0002\u0000Gold Glider\u000E\u0000\u0003\u0002\uFFFF!
-%170 :: You beat a Mii met via\nStreetPass!\n\nYou've unlocked a new\n\u000E\u0000\u0003\u0002\u0000vehicle customization option\u000E\u0000\u0003\u0002\uFFFF!
+%148 :: You won a trophy\nin the Mushroom Cup!\n\nYou can now play the\n\0\0Flower Cup\0!
+%149 :: You won a trophy\nin the Flower Cup!\n\nYou can now play the\n\0\0Star Cup\0!
+%150 :: You won a trophy\nin the Star Cup!\n\nYou can now play the\n\0\0Special Cup\0!
+%152 :: You won a trophy\nin the Shell Cup!\n\nYou can now play the\n\0\0Banana Cup\0!
+%153 :: You won a trophy\nin the Banana Cup!\n\nYou can now play the\n\0\0Leaf Cup\0!
+%154 :: You won a trophy\nin the Leaf Cup!\n\nYou can now play the\n\0\0Lightning Cup\0!
+%155 :: You conquered\nall cups on 150cc!\n\nYou can now play in\n\0\0Mirror Mode\0!
+%157 :: You won the\nMushroom Cup on 150cc!\n\nYou have unlocked\n\0\0Daisy\0!
+%158 :: You won the\nFlower Cup on 150cc!\n\nYou have unlocked\n\0\0Wario\0!
+%159 :: You won the\nStar Cup on 150cc!\n\nYou have unlocked\n\0\0Rosalina\0!
+%160 :: You won the\nSpecial Cup on 150cc!\n\nYou have unlocked\n\0\0Birdo\0!
+%161 :: You won the\nShell Cup on 150cc!\n\nYou have unlocked\n\0\0Shy Guy\0!
+%162 :: You won the\nBanana Cup on 150cc!\n\nYou have unlocked\n\0\0Waluigi\0!
+%163 :: You won the\nLeaf Cup on 150cc!\n\nYou have unlocked\n\0\0King Boo\0!
+%164 :: You won the\nLightning Cup on 150cc!\n\nYou have unlocked\n\0\0Toadette\0!
+%165 :: You won every Grand Prix\non at least one class!\n\nYou can now race as your\n\0\0Mii\0!
+%167 :: You have earned 10,000 VR!\n\nYou've unlocked the\n\0\0Gold Standard\0!
+%168 :: You have scored at least ★\nin every Grand Prix!\n\nYou've unlocked the\n\0\0Gold Tires\0!
+%169 :: You have tagged 100\nplayers via StreetPass!\n\nYou've unlocked the\n\0\0Gold Glider\0!
+%170 :: You beat a Mii met via\nStreetPass!\n\nYou've unlocked a new\n\0\0vehicle customization option\0!
 
 #Staff Credits
 %399 :: \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
