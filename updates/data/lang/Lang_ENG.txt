@@ -108,10 +108,14 @@ $86 :: Wave
 $88 :: Speeder
 $89 :: Leaf
 
+#Modes
+%30 :: A four-track race for first place!
+%31 :: Race by yourself for the fastest record.
+
 #Rules
-%82 :: Race Type
-%83 :: Teams
-%84 :: Solo
+%80 :: Match
+%81 :: Teams
+%82 :: Solo
 
 #Unlocked
 %148 :: You won a trophy\nin the Mushroom Cup!\n\nYou can now play the\n\0\0Flower Cup\0!
