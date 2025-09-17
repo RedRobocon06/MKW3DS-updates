@@ -102,11 +102,11 @@ $71 :: Super Blooper
 $75 :: Classic Dragster
 
 #Kart Tire Parts
-$85 :: Dragster
-$84 :: Ripple
-$86 :: Wave
-$88 :: Speeder
 $89 :: Leaf
+$86 :: Wave
+$84 :: Ripple
+$85 :: Dragster
+$82 :: Speeder
 
 #Modes
 %30 :: A four-track race for first place!

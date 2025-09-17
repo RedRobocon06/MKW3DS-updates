@@ -102,11 +102,11 @@ $71 :: Super Bloups
 $75 :: Dragster Classique
 
 #Kart Tire Parts
-$85 :: Dragster
-$84 :: Ondulation
-$86 :: Vague
-$88 :: Speeder
 $89 :: Feuille
+$86 :: Vague
+$84 :: Ondulation
+$85 :: Dragster
+$82 :: Speeder
 
 #Modes
 #%30 :: 

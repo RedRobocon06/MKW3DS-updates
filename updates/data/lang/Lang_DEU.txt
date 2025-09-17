@@ -102,11 +102,11 @@ $71 :: Blooper-Bolide
 $75 :: Nostalgia 1
 
 #Kart Tire Parts
-$85 :: Dragster
-$84 :: Kräuselung
-$86 :: Welle
-$88 :: Speeder
 $89 :: Blatt
+$86 :: Welle
+$84 :: Kräuselung
+$85 :: Dragster
+$82 :: Speeder
 
 #Modes
 #%30 :: 

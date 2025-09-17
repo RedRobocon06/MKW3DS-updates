@@ -102,11 +102,11 @@ $71 :: Super Calamako
 $75 :: Nostalgia 1
 
 #Kart Tire Parts
-$85 :: Dragster
-$84 :: Ondulazione
-$86 :: Onda
-$88 :: Speeder
 $89 :: Foglia
+$86 :: Onda
+$84 :: Ondulazione
+$85 :: Dragster
+$82 :: Speeder
 
 #Modes
 #%30 :: 

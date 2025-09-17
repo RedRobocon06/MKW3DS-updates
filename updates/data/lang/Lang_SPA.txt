@@ -102,11 +102,11 @@ $71 :: Bloopercarro
 $75 :: Modelo Clásico
 
 #Kart Tire Parts
-$85 :: Dragster
-$84 :: Ondulación
-$86 :: Ola
-$88 :: Speeder
 $89 :: Hoja
+$86 :: Ola
+$84 :: Ondulación
+$85 :: Dragster
+$82 :: Speeder
 
 #Modes
 #%30 :: 
