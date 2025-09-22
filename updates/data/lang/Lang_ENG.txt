@@ -113,7 +113,7 @@ $82 :: Speeder
 %31 :: Race by yourself for the fastest record.
 
 #Rules
-%80 :: Match
+%80 :: Match Type
 %81 :: Teams
 %82 :: Solo
 
